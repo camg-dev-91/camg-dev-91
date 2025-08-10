@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **SASS, Figma**
 
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, Angular**
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, React, Vite, Angular**
 
-- 📫 Como contactarme **cristobal-amg@proton.me**
+- 📫 Para contactarme: **cristobal-amg@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
