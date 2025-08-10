@@ -1,9 +1,11 @@
-<h1 align="center">Hola 👋, me llamo Cristobal Andres Mella Gutierrez/ Hello👋, my name is Cristobal Andres Mella Gutierrezz  </h1>
+<h1 align="center">Hola 👋, me llamo Cristobal Andres Mella Gutierrez/ Hello 👋, my name is Cristobal Andres Mella Gutierrezz  </h1>
 <h3 align="center"> Un apasionado desarrollador de frontend de Chile/ A passionate frontend developer from Chile</h3>
 
 - 🌱 Actualmente estoy perfeccionando mis habilidades en **Tailwind, Wordpress**
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript, React, Vite, Angular**
+  
+- 🤖 Trabajando como prompt engineer
 
 - 📫 Para contactarme: **cristobal-amg@proton.me**
 
